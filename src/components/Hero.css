@@ -1,0 +1,17 @@
+.custom-rounded {
+    border-radius: 15%;
+}
+
+.my-custom-under::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #000000;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.my-custom-under:hover::after {
+    width: 100%;
+}
