@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sonke/static/css/main.89f10f52.css",
-    "main.js": "/sonke/static/js/main.9925a29b.js",
+    "main.css": "/sonke/static/css/main.a50f402d.css",
+    "main.js": "/sonke/static/js/main.07c8b4c9.js",
     "static/media/user2.jpg": "/sonke/static/media/user2.8a376411f7f9c85e2047.jpg",
     "static/media/user1.jpg": "/sonke/static/media/user1.59aca6fa7ce9d37759ce.jpg",
     "static/media/girl.png": "/sonke/static/media/girl.c0b4c4172293ffbe6bb6.png",
@@ -15,11 +15,11 @@
     "static/media/world.jpg": "/sonke/static/media/world.f4a145bcd6c151d86c7c.jpg",
     "static/media/life.jpg": "/sonke/static/media/life.1aacc5166e5733e2556b.jpg",
     "index.html": "/sonke/index.html",
-    "main.89f10f52.css.map": "/sonke/static/css/main.89f10f52.css.map",
-    "main.9925a29b.js.map": "/sonke/static/js/main.9925a29b.js.map"
+    "main.a50f402d.css.map": "/sonke/static/css/main.a50f402d.css.map",
+    "main.07c8b4c9.js.map": "/sonke/static/js/main.07c8b4c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.89f10f52.css",
-    "static/js/main.9925a29b.js"
+    "static/css/main.a50f402d.css",
+    "static/js/main.07c8b4c9.js"
   ]
 }
